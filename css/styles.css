@@ -28,8 +28,7 @@ header p{
 
 /* MAIN */
 main {
-    margin-top: 20px;
-    margin-left: 20px;
+    margin:40px 40px 0 40px;
 }
 
 main ul {
@@ -58,6 +57,7 @@ main .estudios h3 {
     font-size: 20px;
     font-weight: 700;
     letter-spacing: 5px;
+    background-color: #F3F3F3;
 }
 
 main .estudios .texto-fuerte {
